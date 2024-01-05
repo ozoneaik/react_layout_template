@@ -2,17 +2,21 @@
     width: 100%;
     min-height: 100vh;
     background-color: #f6f7fa;
+    position: relative;
 }
 
 .Container{
     width: 100%;
     min-height: 100vh;
-    padding: 20px;
+    padding: 6rem 1rem 1rem;
+    /*padding: 20px;*/
     background-color: #f6f7fa;
 }
 
 .Nav{
-    background-color: red;
+    position: absolute;
+    width: 100%;
+    background-color: #fff;
     height: 80px;
 }
 

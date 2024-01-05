@@ -14,7 +14,6 @@ export default function Layout({children}) {
                         hello
                     </div>
                     <div className={'Container'}>
-
                         {children}
                     </div>
                 </div>

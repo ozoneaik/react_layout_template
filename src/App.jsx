@@ -6,7 +6,7 @@ function App() {
         <>
             <Layout>
                 <div className={'card'}>
-                    hello
+                    content here...
                 </div>
             </Layout>
         </>
